@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  grafana:
+  - appVersion: 6.4.2
+    created: "2020-04-16T15:33:20.517940639-07:00"
+    description: The leading tool for querying and visualizing time series and metrics.
+    digest: 98d6f4ffb42908b56eee2a997b4292b63234db402c16e3272faf069d717d717e
+    name: grafana
+    urls: 
+    - https://github.com/ciprian-barbu/helm-k8s-charts/raw/master/others/grafana
+    version: 4.0.2
